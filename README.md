@@ -1,1 +1,3 @@
 # Predicting-Divvy-Checkouts
+
+Divvy is Chicago's bike-sharing system that has continued to grow since it birth in 2013.  One of the issues however, is that there are times that stations are empty when people need bikes, or stations are full when people are trying to drop bikes off.  This was a project to predict the number of checkouts at given station at a given hour at a specific Divvy station.  For example, how many bikes will be checked out from the Navy Pier Station on June 14 at 8 am?  Using this model, Divvy would be able to recognize when stations will need to be refilled or emptied to accomodate the upcoming population.
